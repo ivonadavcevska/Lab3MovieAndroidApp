@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3MovieApp</string>
+    <string name="search">Search</string>
+    <string name="welcome">Welcome To The Movie App</string>
+    <string name="please_enter_query">Enter Query</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
